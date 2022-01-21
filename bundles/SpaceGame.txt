@@ -1,0 +1,22 @@
+// Player Ship
+BITMAP,DefaultPlayerShip,Player/Ship_1.png
+BITMAP, PlayerShip, Player/PlayerShip.png
+
+// Enemies
+BITMAP, BasicEnemy_3, Enemies/Enemy3.png
+BITMAP, Enemybyalan, Enemies/Enemybyalan.png
+
+//Bullets
+BITMAP, Bullet, Bullets/LaserBlue.png
+
+//Environment
+BITMAP, DefaultBackground,Background/Star2BG01.png
+
+//Crosshair
+BITMAP, Crosshair_1, Crosshair/crosshair055.png
+
+//Sounds
+SOUND, SFX1, laser.mp3
+
+//Items
+BITMAP, hpbooster, Items/hpbooster.png
