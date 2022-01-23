@@ -1,0 +1,24 @@
+// Player Ship
+BITMAP,DefaultPlayerShip,Player/Ship_1.png                                                      
+BITMAP, PlayerShip, Player/PlayerShip.png
+BITMAP, Bullet, Bullets/LaserBlue.png
+
+// Enemies
+BITMAP, BasicEnemy_3, Enemies/Enemy3.png
+BITMAP, Raider, Enemies/RaiderShip.png
+
+//Environment
+BITMAP,DefaultBackground,Background/Star2BG01.png  
+
+//Crosshair
+BITMAP, Crosshair_1, Crosshairs/Crosshair014.png
+
+//Items
+BITMAP, hpbooster, Items/hpbooster.png
+
+//Music
+MUSIC, Music, Deeper.mp3
+
+//Sounds
+SOUND, SFX1, laser.wav
+

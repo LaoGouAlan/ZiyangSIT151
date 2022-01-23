@@ -1,0 +1,24 @@
+{
+    "terminal.integrated.env.windows": {
+        "MSYSTEM": "MINGW64",
+        "MSYS2_PATH_TYPE": "inherit",
+        "CHERE_INVOKING": "enabled_from_arguments"
+    },
+    "terminal.integrated.shell.windows": "C:/msys64/usr/bin/bash.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "--login"
+    ],
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "typeinfo": "cpp",
+        "*.tcc": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp"
+    },
+}
